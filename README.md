@@ -1,7 +1,7 @@
 # cv-portfolio
 Cv-Portfolio JS2-project
 
-<img src="http://localhost:3002/" width="256" height="250" />
+<img src="chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=9&url=http%3A%2F%2Flocalhost%3A3002%2F" width="256" height="250" />
 
 
 ## HI 🎶 🤙 👋
