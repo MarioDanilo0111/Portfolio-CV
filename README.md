@@ -1,7 +1,7 @@
 # cv-portfolio
 Cv-Portfolio JS2-project
 
-<img src="chrome-extension://fdpohaocaechififmbbbbbknoalclacl/capture.html?id=9&url=http%3A%2F%2Flocalhost%3A3002%2F" width="256" height="250" />
+<img src="https://github.com/MarioDanilo0111/cv-portfolio/blob/main/screencapture-localhost-3002-2022-01-27-18_04_23.png" width="256" height="250" />
 
 
 ## HI 🎶 🤙 👋
