@@ -1,7 +1,7 @@
 # cv-portfolio
 Cv-Portfolio JS2-project
 
-<img src="https://github.com/MarioDanilo0111/cv-portfolio/blob/main/screencapture-localhost-3002-2022-01-27-18_04_23.png" width="256" height="250" />
+<img src="screencapture-localhost-3002-2022-01-27-18_04_23.png" width="256" height="250" />
 
 
 ## HI 🎶 🤙 👋
