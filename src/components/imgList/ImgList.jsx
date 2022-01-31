@@ -6,7 +6,7 @@ const ImgList = () => {
   return (
     <div className="pl" id="productlist">
       <div className="pl-texts">
-        <h1 className="pl-title">Project Link</h1>
+        <h1 className="pl-title">Project Link's</h1>
         <p className="pl-desc">
           Här har jag lagt några bilder, från GitHub, Linkedin och skolan
           (kyh.se)
