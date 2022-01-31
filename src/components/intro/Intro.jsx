@@ -13,7 +13,7 @@ const Intro = () => {
               <div className="i-title-item">FrontEnd Developer</div>
               <div className="i-title-item">HTML/CSS</div>
               <div className="i-title-item">JavaScript</div>
-              <div className="i-title-item">SCSS</div>
+              <div className="i-title-item">.sass</div>
               <div className="i-title-item">C#</div>
             </div>
           </div>
