@@ -1,4 +1,3 @@
-// import React from "react";
 import Tin from "./components/img/tindog.png";
 import Band from "./components/img/band.png";
 import Vinyl from "./components/img/vinylcol.png";
@@ -10,42 +9,42 @@ export const data = [
   {
     id: 1,
     img: Tin,
-    title: "tindog/udemy",
+    title: "Tindog Udemy Tutorial",
     link: "https://github.com/MarioDanilo0111/TinDog-firt-pgn",
     desc: "first/poject",
   },
   {
     id: 2,
     img: Band,
-    title: "BandPage",
+    title: "Band Page Project",
     link: "https://github.com/MarioDanilo0111/Band-Project",
     desc: "html/project",
   },
   {
     id: 3,
     img: Vinyl,
-    title: "gitScreenshot",
+    title: "First Project",
     link: "https://github.com/MarioDanilo0111/NiloVinyl",
     desc: "udemy/cod",
   },
   {
     id: 4,
     img: Kyh,
-    title: "kyh/page",
+    title: "Kyh oficial page",
     link: "https://kyh.se/utbildningar/front-end-developer/",
     desc: "test/",
   },
   {
     id: 5,
     img: Linked,
-    title: "linkedprofil",
+    title: "Linked Profil",
     link: "https://www.linkedin.com/in/mario-fernandez-a613b470/",
     desc: "link/pic",
   },
   {
     id: 6,
     img: Gitpage,
-    title: "git/profil",
+    title: "GitHub Profil",
     linl: "https://github.com/MarioDanilo0111",
     desc: "pitpage",
   },
