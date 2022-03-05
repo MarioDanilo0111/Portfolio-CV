@@ -1,4 +1,5 @@
 import { Outlet } from "react-router-dom";
+import React from "react";
 import { Container, Navbar, Nav } from "react-bootstrap";
 import Log from "../img/cv.png";
 import Footer from "../Footer/Footer";

@@ -1,4 +1,3 @@
-// import React from "react";
 import Tin from "./components/img/tindog.png";
 import Band from "./components/img/band.png";
 import Vinyl from "./components/img/vinylcol.png";

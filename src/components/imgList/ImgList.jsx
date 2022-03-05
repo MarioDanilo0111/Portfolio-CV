@@ -1,5 +1,6 @@
 import "../imgList/imgList.css";
 import Product from "../product/Product";
+import React from "react";
 import { data } from "../../data";
 
 const ImgList = () => {
